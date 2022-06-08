@@ -7,15 +7,17 @@
 
 a{
     color: white;
+    font-weight: 800;
 }
 
 .cbody{
     background-color: rgb(239, 243, 248);
+    font-family: "Helvetica", "Verdana", sans-serif;
 }
 
 .links{
-    background-color: rgb(0, 0, 0);
-    font-size: 18px;
+    background-color: rgb(255, 0, 0);
+    font-size: 16px;
 }
 
 /* li{
@@ -24,5 +26,5 @@ a{
 
 #backtotop{
     background-color: grey;
-    font-size: 15px;
+    font-size: 12px;
 }
